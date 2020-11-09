@@ -1,0 +1,17 @@
+.center{
+    margin: 0 auto;
+}
+
+input{
+    border: 2px solid #1F252A;
+    border-radius: 30px;
+    margin-top: 5px;
+    outline: none;
+    padding:10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+input:focus{
+    border:2px solid #43D7FF;
+}
